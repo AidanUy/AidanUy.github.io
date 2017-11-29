@@ -1,2 +1,2 @@
-# aidan-uy.github.io
+# AidanUy.github.io
 Personal website
